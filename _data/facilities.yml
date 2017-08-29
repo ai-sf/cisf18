@@ -1,36 +1,12 @@
-intro: "The Gran Sasso National Laboratory (LNGS) hosts many of the most advanced astroparticle physics experiments in the world, having made scientific journals' front pages on several occasions. The facilities can be accessed via the Gran Sasso tunnel and are buried below 1400 meters of solid rock, within the Gran Sasso mountain.
-<br>
-The Gran Sasso Science Institute (GSSI) is a modern institution focusing on astroparticle physics, mathematics and modelling. Its location close to the LNGS offers its members a unique opportunity to access world-class experiments within the mountain. The GSSI has an active PhD programme in Physics and will be displaying some of the work that students do there.
-<br>
-The National Institute for Nuclear Physics (INFN) is the leading institution for nuclear and subnuclear research in Italy. Frascati laboratories host a number of experiments, ranging from gravitational wave detection to neutrino physics.
-<br>
-The University of Rome Tor Vergata will host us for the opening cerimony, with talks and sessions about the research performed at the facility as well as an introduction to Astroparticle Physics.
-<br>
-During our visits, we will be offered a large number of talks by researchers and professors of the various facilities. In particular, we expect to have overviews of all the major experiments running at the LNGS. The experience can be overwhelming! We will provide further details of our speakers as they become available."
+intro: "Facilities intro"
 
 accomodation:
 
 science:
   - img: img/facilities/1.jpg
-    title: LNGS
-    descr: "The Gran Sasso National Laboratory (LNGS) is the largest underground laboratory in the world devoted to neutrino and astroparticle physics. It is located under 1400 m of solid rock in the Gran Sasso massif."
+    title: Title
+    descr: "Description"
     site:
     map:
 
-  - img: img/facilities/2.jpg
-    title: GSSI
-    descr: "The Gran Sasso Science Institute (GSSI) is an international PhD school and a center for research and higher education. The GSSI aims to create a new center of scientific excellence in L’Aquila fostering the skills and highly specialized structures already present in the area, such as the Gran Sasso National Laboratories."
-    site:
-    map:
-
-  - img: img/facilities/3.jpg
-    title: LNF 
-    descr: "The Frascati Research Center of INFN (Italian National Agency for Nuclear Physics) is the biggest and oldest facility for nuclear and subnuclear physics in Italy. It is located in Frascati, in the surroundings of Rome."
-    site:
-    map:
-
-  - img: img/facilities/4.jpg
-    title: Rome - Tor Vergata 
-    descr: "The University of Rome - Tor Vergata is one of the main facilities for research and education in the Italian capital city."
-    site:
-    map:
+  
