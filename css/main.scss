@@ -2,6 +2,65 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto:900')
+
+\\prima pagina
+
+$letters: 28
+
+body
+  background: #000000
+  
+a
+  font-family: 'Open Sans', sans-serif
+  font-weight: 500
+  color: white
+  text-decoration: none
+  
+.centered
+  position: absolute
+  left: 50%
+  top: 50%
+  transform: translate(-50%, -50%)
+  
+.h-button
+  background: black
+  padding: 150px
+  width: 550px
+  text-align: center
+  
+  span
+    display: inline-block
+    min-width: 0.30em
+    text-transform: uppercase
+    transition: .25s cubic-bezier(0.5,-1, 0.5, 2)
+    opacity: 0
+    transform: translate(0,-20px)
+    
+  &:before
+    content: attr(data-text)
+    color: red
+    position: absolute
+    width: 100%
+    left: 0
+    transition: .25s cubic-bezier(0.5,-1, 0.5, 2)
+    text-transform: uppercase
+    letter-spacing: 3.5px
+    opacity: 1
+    transform: translate(0,0px)
+    
+  &:hover,&:focus
+    &:before
+      opacity: 0
+      transform: translate(0, 20px) 
+  
+    span
+      opacity: 1
+      transform: translate(0, 0)
+   
+    @for $i from 1 through $letters
+      span:nth-child(#{$i})
+        transition-delay: 0.015s * $i
 
 
 
