@@ -1,0 +1,41 @@
+﻿intro: ""
+
+accomodation:
+  - img: img/facilities/hotel.jpg
+    title: MEININGER Hotel Hamburg City Center
+    descr: "The MEININGER Hotel Hamburg City Center is located directly by Altona railway station. It is the ideal starting place if you want to explore the tourist attractions of the Hanseatic city. The 116  well-equipped rooms all have a flat-screen TV and a bathroom. The hotel bar, free Wi-Fi, guest kitchen and gaming area means there is no time for boredom."
+    site: https://www.meininger-hotels.com/de/hotels/hamburg/
+    map: https://goo.gl/maps/aZSyXgyHMKx
+
+
+science:
+  - img: img/facilities/uni.jpg
+    title: Hamburg University
+    descr: "Universität Hamburg is the largest institution for research and education in the north of Germany. As one of the country's largest universities, it offers a diverse course spectrum and excellent research opportunities. The University has established several interdisciplinary key research areas and fosters an extensive network of academic cooperations with leading institutions on a regional, national, and international scale."
+    site: http://www.physnet.uni-hamburg.de/fachbereich-physik_e.html
+    map: https://www.uni-hamburg.de/onTEAM/campus/index.html?loc=i12340335
+
+  - img: img/facilities/nexperia.JPG
+    title: NEXPERIA
+    descr: "Nexperia is a dedicated global leader in Discretes, Logic and MOSFETs devices. They became independent at the beginning of 2017. Focused on efficiency, Nexperia produces consistently reliable semiconductor components at high volume: 85 billion annually. Their extensive portfolio meets the stringent standards set by the Automotive industry. In Nexperia small packages, produced in their own manufacturing facilities, combine power and thermal efficiency with best-in-class quality levels. Built on over half a century of expertise, Nexperia has 11,000 employees across Asia, Europe and the U.S. supporting customers globally."
+    site: https://www.nexperia.com/
+    map: https://goo.gl/maps/cM1sCeK9Dc42
+
+  - img: img/facilities/desy.jpg
+    title: DESY
+    descr: "DESY is one of the world’s leading accelerator centres. Researchers use the large-scale facilities at DESY to explore the microcosm in all its variety – from the interactions of tiny elementary particles and the behaviour of new types of nanomaterials to biomolecular processes that are essential to life. The accelerators and detectors that DESY develops and builds are unique research tools. The facilities generate the world’s most intense X-ray light, accelerate particles to record energies and open completely new windows onto the universe."
+    site: http://www.desy.de/index_eng.html
+    map: https://www.google.it/maps/place/Deutsches+Elektronen-Synchrotron+DESY/@53.5730276,9.8787958,17z/data=!3m1!4b1!4m5!3m4!1s0x47b18432319c54af:0x3952ed73e492578f!8m2!3d53.5730276!4d9.8809845
+
+  - img: img/facilities/cfel.jpg
+    title: MPSD and CFEL
+    descr: "The Max Planck Institute for the Structure and Dynamics of Matter currently hosts three independent Max Planck Research Groups focused on Structure and Dynamics of Cold and Controlled Molecules, Quantum Optics with X-Rays and Dynamics of Nanoelectronic Systems. Participants will be given talks from key researchers of the Institute as well as a Lab Tour. DESY, the Max-Planck-Gesellschaft, and the University of Hamburg established together a Centre for Free-Electron Laser Science (CFEL) on the Hamburg University site. CFEL focuses on developing and exploiting the scientific applications of the new radiation sources with outstanding properties."
+    site: http://www.mpsd.mpg.de/en
+    map: https://goo.gl/maps/BSyo8tokx422
+
+  - img: img/facilities/ilp.jpg
+    title: Institute of Laserphysics
+    descr: "The Institute of Laser-Physics (ILP) is part of the physics department of the University of Hamburg. Its aim is to advance the science of coherent light and coherent matter at all scales, from technological applications to basic research. Working both experimentally and theoretically, its seven research groups join forces to explore novel physics at the intersection of several rapidly evolving disciplines: these comprise laser development and spectroscopy, quantum optics, photonics, and ultracold quantum gases."
+    site: http://photon.physnet.uni-hamburg.de/en/ilp/
+    map: https://goo.gl/maps/jHjqG5CSLJt
+ 

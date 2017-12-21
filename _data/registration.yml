@@ -1,0 +1,35 @@
+﻿info: "Registration will be opened from July 1st (12:00am CET) to July 20th (12:00pm CET) 2017.
+</p><p>
+ Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.)"
+
+posters?: true
+
+posters: "A set of student talks  will be held during the event and students of all levels and specialisations are invited to apply to present their research work, whether this is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer research programme. "
+
+
+
+deadlines:
+  info: ""
+  specs:
+    
+    - text: "Following the registration period, we expect to email all applicants within 10 days. The selection process will end before the beginning of August. Payments will then be required within 10 days of receiving an acceptance email from the organising committee."
+      url: "#!"
+    - text: "Preference will be given to students presenting abstracts. Please notice that applicants can be from any discipline of Physics."
+      url: "#!"
+    - text: "The event is organized and sponsored by the German Physical Society (DPG)."
+      url: "#!"
+    - text: "There is no participation fee. Accommodation and most of the lunches are offered. A Travel Package will be available for €34.50. Such fee will cover tickets to get around Hamburg for the whole 5 days. Please notice that the organization <b>does not cover</b> the following:"
+      url: "#!"
+      subpoints:
+        - text: "Journeys to/from Hamburg at arrival and departure. These will need to be arranged independently;"
+          url: "#!"
+        - text: "Insurance;"
+          url: "#!"
+        - text: "Meals other than those officially offered in the Programme. In particular, dinners."
+          url: "#!"
+    - text: "Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes."
+      url: "http://www.ai-sf.it/dbaisf/registration/"
+      button: Module
+    - text: "If you are a German but not in the DPG yet, you can become a member here:"
+      url: "http://www.dpg-physik.de/mitgliedschaft/mitglied.html"
+      button: Module

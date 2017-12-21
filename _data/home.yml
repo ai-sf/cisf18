@@ -1,0 +1,33 @@
+
+banner: img/banner.png
+
+dpg_logo: img/dpg_logo.png
+
+who: "L'evento è aperto a tutti gli iscritti all'Associazione Italiana Studenti di Fisica. In tutto parteciperanno circa 150 studenti di fisica, di cui 50 dall'Università di Pisa e 100 dagli atenei di tutta Italia."
+
+when: "Da venerdì 20 a martedì 24 Aprile 2018. Le iscrizioni inizieranno a breve."
+
+where: "Presso il Dipartimento di Fisica dell'Università di Pisa, oltre che in tutti i laboratori e centri di ricerca che i partecipanti avranno l'opportunità di visitare."
+
+slideshow:
+  - img: img/facilities/virgo.jpg
+    alt: VIRGO
+    title: VIRGO
+    text: L'ormai celebre interferometro europeo, puntato alla ricerca di onde gravitazionali con i suoi bracci lunghi 3 km ciascuno.
+  - img: img/facilities/nest.jpg
+    alt: NEST
+    title: NEST
+    text: Il National Enterprise for nanoScience and nanoTechnology è un centro di ricerca dove fisici, chimici e biologi indagano la materia sulla nanoscala. 
+  - img: img/facilities/smart.jpg
+    alt: SMART
+    title: SMART
+    text: Centro per lo sviluppo di metodi computazionali per lo studio della struttura e delle proprietà di sistemi molecolari complessi.
+  - img: img/facilities/infn.jpg
+    alt: INFN 
+    title: INFN Sezione di Pisa
+    text: Laboratori di basse energie.
+
+paragraph: "Giunta alla sua IV edizione, la CISF 2018 si svolgerà a Pisa, dove circa 150 studenti
+provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
+della zona, seguire una serie di interventi di illustri professori e ricercatori; conoscere e vivere la quotidianità dell'ambiente universitario pisano,
+reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR."

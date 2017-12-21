@@ -1,0 +1,66 @@
+info: "
+<u>Le iscrizioni inizieranno ad anno nuovo. Stay tuned! </u></p><p>
+La <b>CISF</b> costituisce il principale evento annuale organizzato dall'<b>Associazione Italiana Studenti di Fisica</b> (AISF).
+Giunta alla sua IV edizione, la CISF 2018 si svolgerà a <b>Pisa</b>, dove circa <b>150 studenti</b>
+provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
+della zona, seguire una serie di interventi di illustri professori e ricercatori; conoscere e vivere la quotidianità dell'ambiente universitario pisano,
+reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR.
+</p><p>"
+
+schedule:
+  - day: Venerdì
+    date: "20/04"
+    short_descr: <b>Accoglienza e cerimonia di apertura</b>
+    activity:
+      - hour: "Pomeriggio"
+        descr: "Accoglienza"
+      - hour: "Sera"
+        descr: "Cena tipica toscana"
+  - day: Sabato
+    date: "21/04"
+    short_descr: <b>Talk e visita a VIRGO</b>
+    activity:
+      - hour: "Mattina"
+        descr: "Sessione di talk"
+      - hour: "Pomeriggio"
+        descr: "Visita a VIRGO"
+      - hour: "Sera"
+        descr: "Regions' party"
+  - day: Domenica
+    date: "22/04"
+    short_descr: <b>Talk, poster & parallel sessions</b>
+    activity:
+      - hour: "Mattina"
+        descr: "Sessione di talk"
+      - hour: "Pomeriggio"
+        descr: "Parallel & Poster session"
+      - hour: "Sera"
+        descr: "Serata libera"
+  - day: Lunedì
+    date: "23/04"
+    short_descr: <b>AGA e laboratori a scelta</b>
+    activity:
+      - hour: "Mattina"
+        descr: "AGA"
+      - hour: "Pomeriggio"
+        descr: "Visita ai laboratori a scelta"
+      - hour: "Sera"
+        descr: "Cena in pizzeria"
+  - day: Martedì
+    date: "24/04"
+    short_descr: <b>Laboratori a scelta e partenze</b>
+    activity:
+     - hour: "Mattina"
+       descr: "Visita ai laboratori a scelta"
+     - hour: "Pomeriggio"
+       descr: "Partenze"
+
+few_info:
+  info: ""
+  specs:
+    - text: "Per partecipare all'evento è necessario essere membri dell'Associazione Italiana Studenti di Fisica (AISF) per l'anno in corso."
+      url: "#!"
+    - text: "I posti disponibili saranno circa 150, di cui circa 50 riservati a studenti dall'Università di Pisa."
+      url: "#!"
+    - text: "Le iscrizioni all'evento inizieranno ad anno nuovo. Per rimanere il più possibile aggiornati, si consiglia di seguire gli account social riportati appena più in basso."
+      url: "#!"

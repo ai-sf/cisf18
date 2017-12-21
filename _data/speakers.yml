@@ -1,0 +1,35 @@
+﻿intro: ""
+
+science:
+  
+  - img: img/speakers/henning.jpg
+    title: Dr. Henning Moritz
+    descr: "Dr. Henning Moritz is a Professor at the University of Hamburg. He's the Head of Group research at the Institute for Laserphysics. His main fields of interests are strongly correlated systems, quantum phase transitions, interacting fermions in optical lattices, low dimensional systems nonequilibrium phenomena, transport, mesoscopic physics and atomic gases in nanostructures"
+    shortdes: "Institute for Laserphysics"
+
+  - img: img/speakers/roland.jpg
+    title: Roland Wiesendanger
+    descr: "Roland Wiesendanger is a Professor at the University of Hamburg. He's the Head of a Group research in nanoscience. His main research activities are the demonstration of vacuum tunnelling of spin-polarized electrons in STM; demonstration of atomic-resolution magnetic imaging by SP-STM; demonstration of the detection of magnetic exchange forces in NC-AFM and atomic-resolution magnetic imaging by Magnetic Exchange Force Microscopy; discovery of atomically sharp magnetic domain walls in ultrathin ferromagnetic films; atomic-resolution of antiferromagnetic domain walls; observation of magnetic hysteresis on a single-digit nanometer scale and development of single-atom magnetometry; observation of oscillatory magnetic exchange coupling between individual adatoms; observation of thermally induced magnetization switching of nanometer-scale magnetic islands and few-atom clusters; demonstration of spin-current induced magnetization switching across a vacuum gap by SP-STM; discovery of complex spin structures including magnetic vortices, spin spirals, and skyrmion lattices by SP-STM; demonstration of local writing and deleting of individual skyrmions by an SP-STM tip; observation of the spin-density distribution of individual adsorbed molecules with intramolecular spatial resolution; detection of spin-split Landau levels in semiconductors by SP-STM; combination of single atom manipulation and spin state imaging; demonstration of artificially built nanomagnets and of atomic-scale all-spin logic operations"
+    shortdes: "Hamburg University"
+
+  - img: img/speakers/robin.jpg
+    title: Dr. Robin Santra
+    descr: "Robin is a researcher at the Center for Free-Electron Laser Science and part of the CFEL-DESY theory group. His interests are in the light induced dynamics and control of strongly correlated quantum systems. In Robin's project on strong-field ionization processes in real atoms he investigates the role of correlated electron motion accompanying nonperturbative multiphoton ionization of real atoms. The project involves theoretical method development, based on quantum many-body techniques, and the performance of numerical calculations. Applications in attosecond science and in connection with free-electron lasers are planned."
+    shortdes: "Center for Free-Electron Laser Science"
+
+  - img: img/speakers/daniela.jpg
+    title: Dr. Daniela Pfannkuche
+    descr: "Dr. Daniela Pfannkuche is a Professor at the University of Hamburg. She's a research group leader in Dynamics in correlated systems. Her interest are transport through nanostructures with focus on switching dynamics in magnetic nanostructures, spin dynamics in a time convolutionless approach and aano-electromechanical Systems (NEMS). Daniela is also interested in short time dynamics expecially model systems in short-pulsed light fields, doublon dynamics in ultra-cold gases and coupled dynamics of multi-component Bose-gases. She's also a researcher at the Hamburg Centre for Ultrafast Imaging."
+    shortdes: "Hamburg University"
+
+  - img: img/speakers/boris.JPG
+    title: Dr. Boris Albers
+    descr: "Dr. Boris Albers works with leading organizations in the industrial/natural resources sector, including transportation, energy, utilities, waste management, manufacturing, and services. He also works for private equity companies and is involved in leadership and succession projects.
+Boris has recently completed searches for senior executives and supervisory and advisory board members. These included members for the advisory board of a private equity company and searches for CEO, CFO, CHRO, and CPO positions. In addition, he conducted search assignments for a leading energy company.
+Prior to joining Russell Reynolds Associates, Boris spent four years as a consultant with the Boston Consulting Group, where he developed long-term visions, strategies, new business models, and organizational improvements and supported the implementation of such projects. He advised management in the industry, technology, and financial services sectors, focusing on companies in Germany, Scandinavia, and Africa."
+    shortdes: "Russell Reynolds Associate"
+
+  - img: img/speakers/jorg.JPG
+    title: Dr. Jörg Faupel
+    descr: "Jörg is a Patent, Trademark and Design Attorney specialised in patent, utility model, trademark, registered design, employee invention and intellectual property law. He has experience with industrial property rights since 2007."
+    shortdes: "Seemann & Partner"
