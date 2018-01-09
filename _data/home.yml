@@ -17,7 +17,7 @@ slideshow:
   - img: img/facilities/nest.jpg
     alt: NEST
     title: NEST
-    text: Il National Enterprise for nanoScience and nanoTechnology è un centro di ricerca dove fisici, chimici e biologi indagano la materia sulla nanoscala. 
+    text: Il National Enterprise for nanoScience and nanoTechnology è un centro di ricerca interdisciplinare all'avanguardia che indaga la struttura nanometrica della materia.
   - img: img/facilities/smart.jpg
     alt: SMART
     title: SMART
@@ -25,7 +25,7 @@ slideshow:
   - img: img/facilities/infn.jpg
     alt: INFN 
     title: INFN Sezione di Pisa
-    text: Laboratori di basse energie.
+    text: Laboratori di oticca quantistica e basse energie.
 
 paragraph: "Giunta alla sua IV edizione, la CISF 2018 si svolgerà a Pisa, dove circa 150 studenti
 provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
