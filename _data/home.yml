@@ -3,11 +3,6 @@ banner: img/banner.png
 
 dpg_logo: img/dpg_logo.png
 
-Giunta alla sua IV edizione, la CISF 2018 si svolgerà a Pisa, dove circa 150 studenti
-provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
-della zona, seguire una serie di interventi di illustri professori e ricercatori; conoscere e vivere la quotidianità dell'ambiente universitario pisano,
-reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR.
-
 who: "L'evento è aperto a tutti gli iscritti all'Associazione Italiana Studenti di Fisica. In tutto parteciperanno circa 150 studenti, di cui 50 provenienti dall'Università di Pisa e 100 dagli atenei di tutta Italia."
 
 when: "Da venerdì 20 a lunedì 23 Aprile 2018. Le iscrizioni inizieranno lunedì 19 Febbraio."
@@ -31,3 +26,8 @@ slideshow:
     alt: INFN 
     title: INFN Sezione di Pisa
     text: Dai rivelatori a semiconduttore alla fotonica, dalla fisica dei plasmi e quella della materia condensata, ai laboratori della sezione di Pisa dell'INFN ce n'è per tutti i gusti.
+
+paragraph: "Giunta alla sua IV edizione, la CISF 2018 si svolgerà a Pisa, dove circa 150 studenti
+provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
+della zona, seguire una serie di interventi di illustri professori e ricercatori; conoscere e vivere la quotidianità dell'ambiente universitario pisano,
+reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR."
