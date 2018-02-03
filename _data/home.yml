@@ -3,31 +3,32 @@ banner: img/banner.png
 
 dpg_logo: img/dpg_logo.png
 
-who: "L'evento è aperto a tutti gli iscritti all'Associazione Italiana Studenti di Fisica. In tutto parteciperanno circa 150 studenti di fisica, di cui 50 dall'Università di Pisa e 100 dagli atenei di tutta Italia."
-
-when: "Da venerdì 20 a martedì 24 Aprile 2018. Le iscrizioni inizieranno a breve."
-
-where: "Presso il Dipartimento di Fisica dell'Università di Pisa, oltre che in tutti i laboratori e centri di ricerca che i partecipanti avranno l'opportunità di visitare."
-
-slideshow:
-  - img: img/facilities/virgo.jpg
-    alt: VIRGO
-    title: VIRGO
-    text: L'ormai celebre interferometro europeo, puntato alla ricerca di onde gravitazionali con i suoi bracci lunghi 3 km ciascuno.
-  - img: img/facilities/nest.jpg
-    alt: NEST
-    title: NEST
-    text: Il National Enterprise for nanoScience and nanoTechnology è un centro di ricerca interdisciplinare all'avanguardia che indaga la struttura nanometrica della materia.
-  - img: img/facilities/smart.jpg
-    alt: SMART
-    title: SMART
-    text: Centro per lo sviluppo di metodi computazionali per lo studio della struttura e delle proprietà di sistemi molecolari complessi.
-  - img: img/facilities/infn.jpg
-    alt: INFN 
-    title: INFN Sezione di Pisa
-    text: Laboratori di oticca quantistica e basse energie.
 
 paragraph: "Giunta alla sua IV edizione, la CISF 2018 si svolgerà a Pisa, dove circa 150 studenti
 provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
 della zona, seguire una serie di interventi di illustri professori e ricercatori; conoscere e vivere la quotidianità dell'ambiente universitario pisano,
 reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR."
+
+who: "L'evento è aperto a tutti gli iscritti all'Associazione Italiana Studenti di Fisica. In tutto parteciperanno circa 150 studenti, di cui 50 provenienti dall'Università di Pisa e 100 dagli atenei di tutta Italia."
+
+when: "Da venerdì 20 a lunedì 23 Aprile 2018. Le iscrizioni inizieranno lunedì 19 Febbraio."
+
+where: "Presso il Dipartimento di Fisica dell'Università di Pisa, oltre che in tutti i laboratori e centri di ricerca che saranno visitati durante l'evento."
+
+slideshow:
+  - img: img/facilities/virgo.jpg
+    alt: VIRGO
+    title: VIRGO
+    text: Reso famoso per il Nobel per la Fisica 2017, VIRGO è l'osservatorio gravitazionale europeo, sempre alla di onde gravitazionali con il suo interferometro laser lungo 3 km a braccio.
+  - img: img/facilities/nest.jpg
+    alt: NEST
+    title: NEST
+    text: Il National Enterprise for nanoScience and nanoTechnology è un centro di ricerca interdisciplinare conosciuto in tutto il mondo, che indaga la struttura nanometrica della materia.
+  - img: img/facilities/smart.jpg
+    alt: SMART
+    title: SMART
+    text: SMART è un centro per lo sviluppo di metodi computazionali per lo studio delle proprietà dei sistemi molecolari complessi. Tra gli strumenti adoperati troviamo anche la realtà virtuale immersiva.
+  - img: img/facilities/infn.jpg
+    alt: INFN 
+    title: INFN Sezione di Pisa
+    text: Dai rivelatori a semiconduttore alla fotonica, dalla fisica dei plasmi e quella della materia condensata, ai laboratori della sezione di Pisa dell'INFN ce n'è per tutti i gusti.
