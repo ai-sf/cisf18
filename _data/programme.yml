@@ -64,7 +64,7 @@ schedule:
       - hour: "9.00 - 12.00"
         descr: "Visita ai laboratori a scelta"
       - hour: "12.00 - 13.00"
-        descr: "Premiazioni Parallel Session"
+        descr: "Premiazioni e conclusione"
       - hour: "13.00 -"
         descr: "Partenze"
 
