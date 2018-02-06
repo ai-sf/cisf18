@@ -4,12 +4,12 @@ science:
 
   - img: img/org/bagnato.jpg
     title: Giacomo Bagnato
-    descr: "III anno</p><p>da Briatico"
+    descr: "<span style="font-size:20px">III anno</p><p>da Briatico</span>"
     shortdes: "Presidente del Comitato Organizzatore"
     
   - img: img/org/galati.jpg
     title: Maria Domenica Galati
-    descr: "III anno</p><p>da Vibo Valentia"
+    descr: "III anno</p><p>da Gaspoli"
     shortdes: "Tesoriere"
 
   - img: img/org/torosantucci.jpg
@@ -19,7 +19,7 @@ science:
     
   - img: img/org/corvino.jpg
     title: Angela Corvino
-    descr: "III anno</p><p>da Salerno"
+    descr: "III anno</p><p>da Nocera Inferiore"
     shortdes: "Responsabile vitto e alloggio"
     
   - img: img/org/ubaldo.jpg
