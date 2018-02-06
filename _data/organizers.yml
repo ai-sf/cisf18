@@ -4,7 +4,7 @@ science:
 
   - img: img/org/bagnato.jpg
     title: Giacomo Bagnato
-    descr: "<span style="font-size:20px">III anno</p><p>da Briatico</span>"
+    descr: "<font size="42pt">III anno</p><p>da Briatico</font>"
     shortdes: "Presidente del Comitato Organizzatore"
     
   - img: img/org/galati.jpg
