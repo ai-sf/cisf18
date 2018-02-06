@@ -9,9 +9,9 @@ science:
     site: http://public.virgo-gw.eu/language/en/
     map: https://goo.gl/maps/8BFRhuV8qhD2
   
-  - img: img/facilities/infn.jpg
-    title: INFN - Sezione Di Pisa
-    descr: "La sezione di Pisa dell'INFN è il cuore nevralgico della ricerca in fisica a Pisa. 
+  - img: img/facilities/cnr.jpg
+    title: INFN e CNR di Pisa
+    descr: "La sezione di Pisa dell'INFN e l'Area di Ricerca di Pisa del CNR sono il cuore nevralgico della ricerca in fisica della città. 
     Lo spettro delle ricerche che vi sono condotte è veramente immenso, grazie alla presenza dei suoi ricercatori nelle maggiori collaborazioni internazionali, come CERN, Fermilab, SLAC, EURISOL, AMS02 e VIRGO."
     site: https://www.pi.infn.it/
     map: https://goo.gl/maps/xDMqapk24G42
@@ -19,6 +19,14 @@ science:
   - img: img/facilities/nest.jpg
     title: NEST
     descr: "Il National Enterprise for nanoScience and nanoTechnology (NEST) è un centro di ricerca interdisciplinare dove fisici, chimici e biologi investigano il comportamento della natura alla scala nanometrica.
-    I suoi ricercatori sono impegnati a sviluppare strumenti tecnologici innovativi nel campo campo della nanobiologia, della nanoelettronica e della fotonica."
+    I suoi ricercatori sono impegnati a sviluppare strumenti tecnologici innovativi nel campo campo della nanobiologia, della nanoelettronica e della fotonica.
+    Fa parte del complesso si ricerca della Scuola Normale Superiore di Pisa"
     site: http://www.laboratorionest.it/
     map: https://goo.gl/maps/JtYsJjMsGWT2
+ 
+   - img: img/facilities/smart.jpg
+    title: SMART
+    descr: "Lo Smart Multidisciplinary Approaches Research and Technology (SMART) è un centro per lo sviluppo di metodi computazionali per lo studio delle proprietà dei sistemi molecolari complessi della Scuola Normale Superiore di Pisa.
+    Ospita anche DreamsLab, dove sono sviluppati strumenti per la realtà virtuale immersiva."
+    site: http://smart.sns.it/
+    map: https://goo.gl/maps/FRq2AunGosH2
