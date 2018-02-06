@@ -7,7 +7,6 @@ title: Speakers
   {{ site.data.speakers.intro }}
 </p>
   <div class="section">
-    <h2>Speakers</h2>
       {% for item in site.data.speakers.science %}
       {% assign col = forloop.index0 | modulo:2 %}
       {% if col == 0 %}
