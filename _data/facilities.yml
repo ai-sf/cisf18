@@ -1,9 +1,11 @@
 ﻿intro: ""
  
 science:
-  - img: img/facilities/cnr.jpg
-    title: Hamburg University
-    descr: "Universität Hamburg is the largest institution for research and education in the north of Germany. As one of the country's largest universities, it offers a diverse course spectrum and excellent research opportunities. The University has established several interdisciplinary key research areas and fosters an extensive network of academic cooperations with leading institutions on a regional, national, and international scale."
-    site: http://www.physnet.uni-hamburg.de/fachbereich-physik_e.html
-
+  - img: img/facilities/virgo.jpg
+    title: VIRGO
+    descr: "Reso celebre dalla recente scoperta delle onde gravitazionali, VIRGO è l'osservatorio gravitazionale dell'European Gravitational Observatory (EGO).
+    Consiste in un interferometro laser sensibile alla deformazione spazio-temporale causata dal passaggio di un'onda gravitazionale sulla Terra, grazie ai suoi bracci lunghi 3 km ciascuno.
+    Durante la visita, i partecipanti potranno apprezzare in particolar modo il lavoro svolto dai ricercatori per isolare le apparecchiature da ogni possibile fonte di rumore, data la minuscola intensità del segnale cercato."
+    site: http://public.virgo-gw.eu/language/en/
+    map: https://goo.gl/maps/8BFRhuV8qhD2
  
