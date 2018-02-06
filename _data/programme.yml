@@ -71,13 +71,13 @@ schedule:
 few_info:
   info: ""
   specs:
-    - text: "Per partecipare all'evento è necessario essere membri dell'Associazione Italiana Studenti di Fisica (AISF) per l'anno in corso. Se sei interessato all'evento, rinnova il prima possibile la tua iscrizione o iscriviti per la prima volta."
+    - text: "Per partecipare è necessario essere membri dell'Associazione Italiana Studenti di Fisica (AISF) per l'anno in corso. Se sei interessato all'evento, rinnova il prima possibile la tua iscrizione o iscriviti per la prima volta."
       url: "#!"
     - text: "Prenotate i vostri trasporti tenendo conto che le attività del primo giorno inizieranno alle 14.00 presso l'Aula Magna <i>Fratelli Pontecorvo</i> del Polo Fibonacci dell'Università di Pisa, che potete trovare all'indirizzo <i>Largo Bruno Pontecorvo 3, 56127 Pisa</i>. Le attività dell'ultimo giorno termineranno alle 13.00 nel medesimo luogo."
       url: "#!"
-    - text: "La CISF 2018 ospiterà ben sei talk su fisica teorica, fisica delle particelle, fisica dei plasmi, astrofisica, fisica medica e computazione quantistica. In particolare ospiteremo due fisici di fama mondiale come <b>Gabriele Veneziano</b>, padre della tooria delle stringhe, e <b>Guido Emilio Tonelli</b>, direttore dell'esprimento CMS del CERN durante la scoperta del bosone di Higgs."
+    - text: "Saranno ben sei i talk a cui potranno assistere i partecipanti, tutti tenuti da protagonisti della ricerca del settore. In particolare ospiteremo due fisici di fama mondiale come <b>Gabriele Veneziano</b>, padre della teoria delle stringhe, e <b>Guido Emilio Tonelli</b>, direttore dell'esprimento CMS del CERN durante la scoperta del bosone di Higgs."
       url: "#!"
     - text: "Durante la CISF avrà luogo l'<b>AGA</b>, l'Assemblea Generale Annuale, in cui saranno discusse tutte le principali questioni amministrative riguardanti l'AISF."
       url: "#!"
-    - text: "Il primo giorno si terrà la <b>Parallel Session</b>, in cui alcuni partecipanti potranno esporre un loro lavoro originale, ad esempio la loro tesi, triennale o magistrale. È previsto anche uno spazio riservato ai poster." 
+    - text: "Il primo giorno si terrà la <b>Parallel Session</b>, in cui i partecipanti potranno presentare un loro lavoro originale, come la loro tesi triennale o magistrale. È previsto anche uno spazio riservato ai poster." 
       url: "#!"
