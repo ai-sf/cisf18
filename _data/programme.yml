@@ -1,5 +1,4 @@
-info: "
-<u>Le iscrizioni inizieranno ad anno nuovo. Stay tuned! </u></p><p>
+info: 
 La <b>CISF</b> costituisce il principale evento annuale organizzato dall'<b>Associazione Italiana Studenti di Fisica</b> (AISF).
 Giunta alla sua IV edizione, la CISF 2018 si svolgerà a <b>Pisa</b>, dove circa <b>150 studenti</b>
 provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
@@ -10,57 +9,75 @@ reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore,
 schedule:
   - day: Venerdì
     date: "20/04"
-    short_descr: <b>Accoglienza e cerimonia di apertura</b>
+    short_descr: <b>Cerimonia di apertura e Parallel Session</b>
     activity:
-      - hour: "Pomeriggio"
-        descr: "Accoglienza"
-      - hour: "Sera"
-        descr: "Cena tipica toscana"
+      - hour: "14.00 - 15.30"
+        descr: "Accoglienza e cerimonia di apertura"
+      - hour: "15.30 - 16.15"
+        descr: "Primo talk"
+      - hour: "16.30 - 20.00"
+        descr: "Parallel Session"
+      - hour: "20.00 - "
+        descr: "Tuscanian food night"
   - day: Sabato
     date: "21/04"
     short_descr: <b>Talk e visita a VIRGO</b>
     activity:
-      - hour: "Mattina"
-        descr: "Sessione di talk"
-      - hour: "Pomeriggio"
+      - hour: "9.00 - 10.00"
+        descr: "Eventi AISF"
+      - hour: "10.00 - 11.00"
+        descr: "Secondo talk"
+      - hour: "11.00 - 11.15"
+        descr: "Coffee break"
+      - hour: "11.15.00 - 12.15"
+        descr: "Terzo break"
+      - hour: "12.15 - 13.30"
+        descr: "Pranzo"
+      - hour: "13.30 - 19.30"
         descr: "Visita a VIRGO"
-      - hour: "Sera"
-        descr: "Regions' party"
+      - hour: "19.30 - "
+        descr: "Regions party"
   - day: Domenica
     date: "22/04"
-    short_descr: <b>Talk, poster & parallel sessions</b>
+    short_descr: <b>Talk e AGA</b>
     activity:
-      - hour: "Mattina"
-        descr: "Sessione di talk"
-      - hour: "Pomeriggio"
-        descr: "Parallel & Poster session"
-      - hour: "Sera"
-        descr: "Serata libera"
+      - hour: "9.15 - 10.15"
+        descr: "Eventi AISF"
+      - hour: "10.15 - 11.00"
+        descr: "Quarto talk"
+      - hour: "11.00 - 11.15"
+        descr: "Coffee break"
+      - hour: "11.15 - 12.00"
+        descr: "Quinto talk"
+      - hour: "12.00 - 12.45"
+        descr: "Sesto talk"
+      - hour: "13.00 - 14.15"
+        descr: "Pranzo"
+      - hour: "14.30 - 18.00"
+        descr: "AGA"
+      - hour: "20.00 -"
+        descr: "Cena in pizzeria"
   - day: Lunedì
     date: "23/04"
-    short_descr: <b>AGA e laboratori a scelta</b>
-    activity:
-      - hour: "Mattina"
-        descr: "AGA"
-      - hour: "Pomeriggio"
-        descr: "Visita ai laboratori a scelta"
-      - hour: "Sera"
-        descr: "Cena in pizzeria"
-  - day: Martedì
-    date: "24/04"
     short_descr: <b>Laboratori a scelta e partenze</b>
     activity:
-     - hour: "Mattina"
-       descr: "Visita ai laboratori a scelta"
-     - hour: "Pomeriggio"
-       descr: "Partenze"
+      - hour: "9.00 - 12.00"
+        descr: "Visita ai laboratori a scelta"
+      - hour: "12.00 - 13.00"
+        descr: "Premiazioni Parallel Session"
+      - hour: "13.00 -"
+        descr: "Partenze"
 
 few_info:
   info: ""
   specs:
-    - text: "Per partecipare all'evento è necessario essere membri dell'Associazione Italiana Studenti di Fisica (AISF) per l'anno in corso."
+    - text: "Per partecipare all'evento è necessario essere membri dell'Associazione Italiana Studenti di Fisica (AISF) per l'anno in corso. Se sei interessato all'evento, rinnova il prima possibile la tua iscrizione o iscriviti per la prima volta."
       url: "#!"
-    - text: "I posti disponibili saranno circa 150, di cui circa 50 riservati a studenti dall'Università di Pisa."
+    - text: "Prenotate i vostri trasporti tenendo conto che le attività del primo giorno inizieranno alle 14.00 presso l'Aula Magna <i>Fratelli Pontecorvo</i> del Polo Fibonacci dell'Università di Pisa, che potete trovare all'indirizzo <i>Largo Bruno Pontecorvo 3, 56127 Pisa</i>. Le attività dell'ultimo giorno termineranno alle 13.00 nel medesimo luogo."
       url: "#!"
-    - text: "Le iscrizioni all'evento inizieranno ad anno nuovo. Per rimanere il più possibile aggiornati, si consiglia di seguire gli account social riportati appena più in basso."
+    - text: "La CISF 2018 ospiterà ben sei talk su fisica teorica, fisica delle particelle, fisica dei plasmi, astrofisica, fisica medica e computazione quantistica. In particolare ospiteremo due fisici di fama mondiale come <b>Gabriele Veneziano</b>, padre della tooria delle stringhe, e <b>Guido Emilio Tonelli</b>, direttore dell'esprimento CMS del CERN durante la scoperta del bosone di Higgs."
+      url: "#!"
+    - text: "Durante la CISF avrà luogo l'<b>AGA</b>, l'Assemblea Generale Annuale, in cui saranno discusse tutte le principali questioni amministrative riguardanti l'AISF."
+      url: "#!"
+    - text: "Il primo giorno si terrà la <b>Parallel Session</b>, in cui alcuni partecipanti potranno esporre un loro lavoro originale, ad esempio la loro tesi, triennale o magistrale. È previsto anche uno spazio riservato ai poster." 
       url: "#!"
