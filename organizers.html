@@ -9,7 +9,7 @@ title: Organizzazione
 </p>
   <div class="section">
       {% for item in site.data.organizers.science %}
-      {% assign col = forloop.index0 | modulo:2 %}
+      {% assign col = forloop.index0 | modulo:3 %}
       {% if col == 0 %}
        <div class="row">
         {% endif %}
