@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Organizzatori
+title: Organizzazione
 ---
 
 <p>
   {{ site.data.organizers.intro }}
 </p>
   <div class="section">
+     <h2>Comitato organizzatore</h2>
       {% for item in site.data.organizers.science %}
       {% assign col = forloop.index0 | modulo:2 %}
       {% if col == 0 %}
@@ -38,4 +39,11 @@ title: Organizzatori
 </div>
 {% endif %}
 {% endfor %}
+</div>
+
+<div class="section">
+  <h2>Sponsor e patrocini</h2>
+  <p>
+    {{ site.data.sponsor.info }}
+  </p>
 </div>
