@@ -1,0 +1,43 @@
+intro: ""
+ 
+science:
+  - img: img/sponsor/unipi.jpg
+    title: Università di Pisa
+    descr: ""
+    site: https://www.unipi.it/
+    map: https://goo.gl/maps/uz5Ry6F6tMF2
+    
+  - img: img/sponsor/infn.jpg
+    title: INFN - Sezione di Pisa
+    descr: ""
+    site: https://www.pi.infn.it/
+    map: https://goo.gl/maps/jgHgpH85a6J2
+    
+  - img: img/sponsor/pisa.jpg
+    title: Comune di Pisa
+    descr: ""
+    site: http://www.comune.pisa.it/it/home
+    map: https://goo.gl/maps/cViKqEbneRx
+    
+  - img: img/sponsor/cnr.jpg
+    title: CNR - Area della Ricerca di Pisa
+    descr: ""
+    site: http://www.area.pi.cnr.it/
+    map: https://goo.gl/maps/Swg9eYK7KXq
+    
+  - img: img/sponsor/nest.jpg
+    title: NEST
+    descr: ""
+    site: http://www.laboratorionest.it/
+    map: https://goo.gl/maps/kkzh4DPYhEw
+    
+  - img: img/sponsor/fdfp.jpg
+    title: Frontier Detectors for Frontier Physics
+    descr: ""
+    site: https://agenda.infn.it/conferenceDisplay.py?confId=13450
+    map: https://goo.gl/maps/jgHgpH85a6J2
+    
+ 
+   
+
+  
