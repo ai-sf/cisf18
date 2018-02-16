@@ -5,7 +5,7 @@ science:
     title: VIRGO
     descr: "Reso celebre dalla recente scoperta delle onde gravitazionali, VIRGO è l'osservatorio gravitazionale dell'European Gravitational Observatory (EGO).
     I suoi bracci laser, lunghi tre chilometri ciascuno, sono sensibili alla deformazione spaziale causata dal passaggio di un'onda gravitazionale.
-    Durante la visita, i partecipanti potranno apprezzare il lavoro svolto dai ricercatori per isolare le apparecchiature da ogni possibile fonte di rumore, data la minuscola intensità del segnale cercato."
+    Durante la visita i partecipanti potranno apprezzare il lavoro svolto dai ricercatori per isolare l'esiguo segnale cercato da ogni possibile fonte di rumore."
     site: http://public.virgo-gw.eu/language/en/
     map: https://goo.gl/maps/8BFRhuV8qhD2
   
@@ -20,13 +20,13 @@ science:
     title: NEST
     descr: "Il National Enterprise for nanoScience and nanoTechnology (NEST) è un centro di ricerca interdisciplinare dove fisici, chimici e biologi investigano il comportamento della natura alla scala nanometrica.
     I suoi ricercatori sono impegnati a sviluppare strumenti tecnologici innovativi nel campo campo della nanobiologia, della nanoelettronica e della fotonica.
-    Fa parte del complesso si ricerca della Scuola Normale Superiore di Pisa"
+    Fa parte del complesso di ricerca della Scuola Normale Superiore di Pisa"
     site: http://www.laboratorionest.it/
     map: https://goo.gl/maps/JtYsJjMsGWT2
  
   - img: img/facilities/smart.jpg
     title: SMART
     descr: "Lo Smart Multidisciplinary Approaches Research and Technology (SMART) è un centro per lo sviluppo di metodi computazionali per lo studio delle proprietà dei sistemi molecolari complessi della Scuola Normale Superiore di Pisa.
-    Ospita anche DreamsLab, dove sono sviluppati strumenti per la realtà virtuale immersiva."
+    Ospita anche DreamsLab, dove sono sviluppati strumenti per la realtà virtuale immersiva, che i partecipanti avranno la possibilità di provare."
     site: http://smart.sns.it/
     map: https://goo.gl/maps/FRq2AunGosH2
