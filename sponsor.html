@@ -1,0 +1,38 @@
+---
+layout: page
+title: Sponsor e patrocini
+---
+
+<p>
+  {{ site.data.sponsor.intro }}
+</p>
+
+<div class="section">
+
+  {% for item in site.data.sponsor.science %}
+    {% assign col = forloop.index0 | modulo:2 %}
+    {% if col == 0 %}
+      <div class="row">
+    {% endif %}
+      <div class="col s12 m6">
+        <div class="card">
+          <div class="card-image">
+    	       <img src="{{ site.url}}/{{ item.img }}">
+          </div>
+          <div class="card-content">
+    	       <span class="card-title grey-text text-darken-4">{{ item.title }}</span>
+    	       <p>
+                 {{ item.descr }}
+             </p>
+          </div>
+        	<div class="card-action">
+        	  <a href="{{ item.site }}">Site</a>
+        	  <a href="{{ item.map }}">Map</a>
+        	</div>
+        </div>
+      </div>
+    {% if col == 1 %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
