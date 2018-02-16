@@ -12,19 +12,19 @@ slideshow:
   - img: img/facilities/virgo.jpg
     alt: VIRGO
     title: VIRGO
-    text: Reso famoso dal Nobel per la Fisica 2017, VIRGO è l'osservatorio gravitazionale europeo, incessantemente alla di onde gravitazionali con il suo interferometro laser lungo 3 km a braccio.
+    text: VIRGO è l'osservatorio gravitazionale europeo, incessantemente alla di onde gravitazionali con il suo interferometro laser lungo 3 km a braccio.
   - img: img/facilities/nest.jpg
     alt: NEST
     title: NEST
-    text: Il National Enterprise for nanoScience and nanoTechnology è un centro di ricerca interdisciplinare conosciuto in tutto il mondo, che indaga la struttura nanometrica della materia.
+    text: Il NEST è un centro di ricerca interdisciplinare, che indaga la struttura nanometrica della materia.
   - img: img/facilities/smart.jpg
     alt: SMART
     title: SMART
-    text: SMART è un centro per lo sviluppo di metodi computazionali per lo studio delle proprietà dei sistemi molecolari complessi. Tra gli strumenti adoperati troviamo anche la realtà virtuale immersiva.
+    text: SMART è un centro per lo sviluppo di metodi computazionali per lo studio delle proprietà dei sistemi molecolari complessi.
   - img: img/facilities/infn.jpg
     alt: INFN 
     title: INFN Sezione di Pisa
-    text: Dai rivelatori a semiconduttore alla fotonica, dalla fisica dei plasmi e quella della materia condensata, ai laboratori della sezione di Pisa dell'INFN ce n'è per tutti i gusti.
+    text: Dalla fotonica alla fisica dei plasmi e della materia condensata, ai laboratori della sezione di Pisa dell'INFN ce n'è per tutti i gusti.
 
 paragraph: "La <b>CISF</b> costituisce il principale evento annuale organizzato dall'<b>Associazione Italiana Studenti di Fisica</b> (AISF).
 Giunta alla sua IV edizione, la CISF 2018 si svolgerà a <b>Pisa</b>, dove circa <b>150 studenti</b>
