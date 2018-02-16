@@ -2,8 +2,8 @@ info: "
 La <b>CISF</b> costituisce il principale evento annuale organizzato dall'<b>Associazione Italiana Studenti di Fisica</b> (AISF).
 Giunta alla sua IV edizione, la CISF 2018 si svolgerà a <b>Pisa</b>, dove circa <b>150 studenti</b>
 provenienti da tutta Italia avranno la possibilità di visitare i maggiori centri di ricerca e laboratori
-della zona, seguire una serie di interventi di illustri professori e ricercatori; conoscere e vivere la quotidianità dell'ambiente universitario pisano,
-reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR.
+della zona, seguire una serie di interventi di illustri professori e ricercatori.
+Non per ultimo conoscere e vivere la quotidianità dell'ambiente universitario pisano, reso unico dalla compresenza dell'Università di Pisa, Scuola Normale Superiore, Scuola Superiore Sant'Anna, INFN e CNR.
 </p><p>"
 
 schedule:
@@ -75,11 +75,14 @@ few_info:
       url: "#!"
     - text: "Prenotate i vostri trasporti tenendo conto che le attività del primo giorno inizieranno alle 14.00 presso l'Aula Magna <i>Fratelli Pontecorvo</i> del Polo Fibonacci dell'Università di Pisa, che potete trovare all'indirizzo <i>Largo Bruno Pontecorvo 3, 56127 Pisa</i>. Le attività dell'ultimo giorno termineranno alle 13.00 nel medesimo luogo."
       url: "#!"
-    - text: "Saranno ben sei i talk a cui potranno assistere i partecipanti, tutti tenuti da protagonisti della ricerca del settore. In particolare ospiteremo un fisico di fama mondiale come <b>Gabriele Veneziano</b>, padre della teoria delle stringhe."
+    - text: "Saranno ben sei i talk a cui potranno assistere i partecipanti, tutti tenuti da protagonisti della ricerca del settore. Gli argomenti affrontati saranno fisica teoria, fisica delle particelle, astrofisica, fisica dei plasmi, computazione quantistica e fisica medica."
       url: "#!"
-    - text: "Tutti i partecipanti visiteranno l'osservatorio gravitazionale <b>VIRGO</b> e uno a scelta tra NEST (+ SMART), INFN - Sezione di Pisa e CNR - Area di ricerca di Pisa."
+    - text: "Tutti i partecipanti visiteranno l'osservatorio gravitazionale <b>VIRGO</b> e un laboratorio a scelta tra NEST (+ SMART), INFN - Sezione di Pisa e CNR - Area di ricerca di Pisa."
       url: "#!"
     - text: "Durante la CISF avrà luogo l'<b>AGA</b>, l'Assemblea Generale Annuale, in cui saranno discusse tutte le principali questioni amministrative riguardanti l'AISF."
       url: "#!"
-    - text: "Il primo giorno si terrà la <b>Parallel Session</b>, in cui i partecipanti potranno presentare un loro lavoro originale, come la loro tesi triennale o magistrale. È previsto anche uno spazio riservato ai poster." 
+    - text: "Il primo giorno si terrà la <b>Parallel Session</b>, in cui i partecipanti potranno presentare lavori di tesi e/o ricerca svolti durante internship o altri progetti extracurriculari. È previsto anche uno spazio riservato ai poster." 
       url: "#!"
+    - text: "Sabato sera avrà luogo il tradizionale <b>Region party</b>, per il quale sarà chiesto a tutti di portare un piatto tipico della propria zona di provenienza. Maggiori informazioni saranno date dopo la conclusione delle iscrizioni." 
+      url: "#!"
+      
