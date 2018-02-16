@@ -6,6 +6,8 @@
   url: facilities
 - text: Organizzazione
   url: organizers
+- text: Sponsor
+  url: sponsor
 - text: AISF
   url: http://www.ai-sf.it
 
