@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Strutture
+title: Facilities
 ---
 
 <p>
@@ -8,7 +8,7 @@ title: Strutture
 </p>
 
 <div class="section">
-  <h2>Laboratori</h2>
+  <h2>Science Facilities</h2>
 
   {% for item in site.data.facilities.science %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -29,7 +29,7 @@ title: Strutture
              </p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Sito</a>
+        	  <a href="{{ item.site }}">Site</a>
         	  <a href="{{ item.map }}">Map</a>
         	</div>
         </div>
@@ -40,8 +40,8 @@ title: Strutture
   {% endfor %}
 </div>
 
-<!-- <div class="section">
-  <h2>Hotel</h2>
+<div class="section">
+  <h2>Accommodation</h2>
 
   {% for item in site.data.facilities.accomodation %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -50,7 +50,7 @@ title: Strutture
     {% endif %}
       <div class="col s12 m6">
         <div class="card">
-          <!-- <div class="card-image">
+           <div class="card-image">
     	       <img src="{{ site.url}}/{{ item.img }}">
           </div> 
           <div class="card-content">
@@ -62,7 +62,7 @@ title: Strutture
              </p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Sito</a>
+        	  <a href="{{ item.site }}">Site</a>
         	  <a href="{{ item.map }}">Map</a>
         	</div>
         </div>
@@ -71,4 +71,4 @@ title: Strutture
     </div>
     {% endif %}
   {% endfor %}
-</div> -->
+</div>
