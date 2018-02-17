@@ -1,20 +1,11 @@
 ﻿intro: ""
  
-accommodation:
-  - img: img/facilities/smart.jpg
-    title: SMART
-    descr: "Lo Smart Multidisciplinary Approaches Research and Technology (SMART) è un centro per lo sviluppo di metodi computazionali per lo studio delle proprietà dei sistemi molecolari complessi della Scuola Normale Superiore di Pisa.
-    Ospita anche DreamsLab, dove sono sviluppati strumenti per la realtà virtuale immersiva, che i partecipanti avranno la possibilità di provare."
-    site: http://smart.sns.it/
-    map: https://goo.gl/maps/FRq2AunGosH2
-
-  - img: img/facilities/nest.jpg
-    title: NEST
-    descr: "Il National Enterprise for nanoScience and nanoTechnology (NEST) è un centro di ricerca interdisciplinare dove fisici, chimici e biologi investigano il comportamento della natura alla scala nanometrica.
-    I suoi ricercatori sono impegnati a sviluppare strumenti tecnologici innovativi nel campo campo della nanobiologia, della nanoelettronica e della fotonica.
-    Fa parte del complesso di ricerca della Scuola Normale Superiore di Pisa"
-    site: http://www.laboratorionest.it/
-    map: https://goo.gl/maps/JtYsJjMsGWT2
+accomodation:
+  - img: img/facilities/virgo.jpg
+    title: MEININGER Hotel Hamburg City Center
+    descr: "The MEININGER Hotel Hamburg City Center is located directly by Altona railway station. It is the ideal starting place if you want to explore the tourist attractions of the Hanseatic city. The 116  well-equipped rooms all have a flat-screen TV and a bathroom. The hotel bar, free Wi-Fi, guest kitchen and gaming area means there is no time for boredom."
+    site: https://www.meininger-hotels.com/de/hotels/hamburg/
+    map: https://goo.gl/maps/aZSyXgyHMKx
  
 science:
   - img: img/facilities/virgo.jpg
