@@ -11,22 +11,46 @@ posters?: false
 terms:
   info: "Prima dell'iscrizione leggere con attenzione quanto segue (in inglese)."
   specs:
-    - text: "All personal data will be handled confidentially. It will not be forwarded to any third parties except where necessary for the purpose of the conference. Please keep in mind that we will forward some of the information in your registration form to the universities and research centres involved. We will also send your name and university to the board of the national/local committees of AISF to check your AISF membership."
+    - text: "Tutti i dati personali saranno trattati con riservatezza. Non saranno forniti a terze parti
+            eccetto dove necessario ai fini della conferenza. Si rende noto che inoltreremo alcuni dei
+            dati da voi forniteci alle università e ai centri di ricerca coinvolti. I dati come nome e
+            università di provenienza saranno anche inviati al consiglio dei comitati nazionali/locali AISF
+            al fine di verificare l'effettiva qualifica di membro."
       url: "#!"
-    - text: "Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference."
+    - text: "Solamente gli studenti iscritti in una università, o simile istituizione, che seguono corsi di
+            fisica, o in qualche modo ad essa correlati, così come coloro che hanno ricevuto il diploma di
+            laurea (relativa a corsi di studi di cui sopra) da non più di 12 mesi dall'evento, possono
+            partecipare alla conferenza. L'evento è riservato a studenti di età non inferiore a 18 anni."
       url: "#!"
-    - text: "You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in Conferenza Italiana Studenti di Fisica 2018."
+    - text: "Accettando questi termini dichiari di essere stato informato e dichiari di accettare che il
+            comitato organizzatore e i luoghi ospitanti l'evento in ogni sua parte non hanno qualsivoglia
+            responsabilità per danni a cose e/o persone inclusi smarrimento o danneggiamento di
+            qualsiasi oggetto che avvengano durante la Conferenza Italiana di Fisica 2018."
       url: "#!"
-    - text: "You accept the IAPS Code of Conduct."
+    - text: "Accettando questi termini dichiari di accettare il codice di condotta IAPS in ogni sua parte."
       url: "files/IAPS_Code_of_Conduct.pdf"
       button: "PDF"
-    - text: "By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication. You also confirm that the information contained in this application is true and correct."
+    - text: "Partecipando all'evento tu accetti di essere filmato, fotografato e/o soggetto a qualsiasi
+            altro tipo di registrazione multimediale durante la conferenza e con la presente concedi al
+            comitato organizzatore della Conferenza Italiana degli Studenti di Fisica 2018, AISF e IAPS il
+            diritto di usare la tua immagine, un tuo filmato o qualsi altra forma di pubblicazione
+            multimediale che ti renda riconoscibile."
       url: "#!"
-    - text: "You accept that the organizing committee cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity."
+    - text: "Accettando questi termini dichiari che le informazioni contenute nella tua domanda di
+            iscrizione sono vere e corrette."
       url: "#!"
-    - text: "You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found. No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of €10 from the fee as a contribution to the expenses to the event. All decisions about financial aspects of the event will need to be approved by the entire Organising Committee."
+    - text: "Accettando questi termini accetti che in caso di rinuncia alla partecipazione, il Comitato
+            Organizzatore provvederà al risarcimento della quota di partecipazione solo ed
+            esclusivamente nel caso in cui si riesca a trovare uno studente sostitutivo. In ogni caso non è
+            previsto alcun risarcimento della quota di associazione (membership) sotto qualsiasi
+            circostanza. Nel caso in cui fosse approvato un eventuale rimborso il Comitato
+            Organizzatore tratterà un totale di 10 € dalla quota come contributo per le spese
+            dell'evento."
       url: "#!"
-    - text: "The present terms and conditions are governed by the laws of the Republic of Italy."
+    - text: "Tutte le decisioni circa aspetti economici relativi all'evento è necessario che siano approvate
+              dal Comitato organizzatore nella sua interezza."
+      url: "#!"
+    - text: "I presenti termini e condizioni sono governati dalle leggi della Republica Italiana."
       url: "#!"
 
 deadlines:
