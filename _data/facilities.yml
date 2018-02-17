@@ -1,17 +1,17 @@
 ﻿intro: ""
  
 accomodation:
-  - img: img/facilities/virgo.jpg
-    title: MEININGER Hotel Hamburg City Center
-    descr: "The MEININGER Hotel Hamburg City Center is located directly by Altona railway station. It is the ideal starting place if you want to explore the tourist attractions of the Hanseatic city. The 116  well-equipped rooms all have a flat-screen TV and a bathroom. The hotel bar, free Wi-Fi, guest kitchen and gaming area means there is no time for boredom."
-    site: https://www.meininger-hotels.com/de/hotels/hamburg/
-    map: https://goo.gl/maps/aZSyXgyHMKx
+  - img: img/facilities/lapace.jpg
+    title: Hotel La Pace
+    descr: ""
+    site: http://www.hotellapace.it/
+    map: https://goo.gl/maps/Tk3SfQmw3eJ2
     
-  - img: img/facilities/virgo.jpg
-    title: MEININGER Hotel Hamburg City Center
-    descr: "The MEININGER Hotel Hamburg City Center is located directly by Altona railway station. It is the ideal starting place if you want to explore the tourist attractions of the Hanseatic city. The 116  well-equipped rooms all have a flat-screen TV and a bathroom. The hotel bar, free Wi-Fi, guest kitchen and gaming area means there is no time for boredom."
-    site: https://www.meininger-hotels.com/de/hotels/hamburg/
-    map: https://goo.gl/maps/aZSyXgyHMKx
+  - img: img/facilities/moderno.jpg
+    title: Hotel Moderno
+    descr: ""
+    site: https://www.hotelmoderno.pisa.it/
+    map: https://goo.gl/maps/hnBJCpHcnLr
  
 science:
   - img: img/facilities/virgo.jpg
