@@ -1,10 +1,8 @@
 ﻿info: "<b>Le iscrizioni apriranno lunedì 19 febbraio e chiuderanno giovedì 1 marzo.</b>
 </p><p>
 Sono disponibili <b>150 posti</b>, di cui 50 riservati a studenti dell'Università di Pisa e 100 a studenti provenienti da altri atenei italiani.
-Tra i 50 riservati a studenti interni, 10 saranno assegnati a volontari reclutati direttamente dal Comitato Organizattore come supporto all'organizzazione dell'evento.
-</p><p>
-La quota di partecipazione è di <b>50 euro</b> per gli studenti di Pisa, <b>100 euro</b> per gli studenti di altre università e <b>30 euro</b> per i volontari.
-La parte comune di quota comprende la partecipazione a tutte le conferenze e visite previste nel programma, pasti (due pranzi e tre cene), trasporti interni all'evento e gadget vari.
+La quota di partecipazione è di <b>50 euro</b> per gli studenti di Pisa e <b>100 euro</b> per gli studenti di altre università.
+La parte comune di quota comprende la partecipazione a tutte le conferenze e visite previste nel programma, pasti (due pranzi e due cene), trasporti interni all'evento e gadget vari.
 La parte aggiuntiva per studenti esterni include pernottamento e prima colazione in hotel per tre notti. 
 Le strutture in cui alloggeremo sono Hotel La Pace e Hotel Moderno.
 Nella quota <b>non sono compresi</b> né i trasporti per raggiungere Pisa, né il pranzo del primo e ultimo giorno, che non fanno parte dell'evento."
@@ -36,7 +34,7 @@ deadlines:
   specs:
     - text: "Le iscrizioni apriranno lunedì 19 febbraio e chiuderanno giovedì 1 marzo."
       url: "#!"
-    - text: "I partecipanti scelti riceveranno una mail di accettazione e da quel momento avranno 10 giorni di tempo per procedere al pagamento della quota nelle modalità che saranno fornite."
+    - text: "I partecipanti scelti riceveranno una mail di accettazione e da quel momento avranno 10 giorni di tempo per procedere al pagamento della quota nelle modalità che saranno fornite, oltre i quali l'iscrizione non verrà considerata valida."
       url: "#!"
     - text: "Al momento della scelta dei partecipanti, il Comitato Organizzatore darà importanza alla breve lettera motivazionale inclusa nel modulo di iscrizione e alla disponibilità dello studente a partecipare attivamente alla Parallel Sessio. Inoltre ogni Comitato Locale avrà un proprio rappresentante per l'AGA."
       url: "#!"
