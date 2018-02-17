@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Facilities
+title: Strutture
 ---
 
 <p>
@@ -8,7 +8,7 @@ title: Facilities
 </p>
 
 <div class="section">
-  <h2>Science Facilities</h2>
+  <h2>Laboratori</h2>
 
   {% for item in site.data.facilities.science %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -29,8 +29,8 @@ title: Facilities
              </p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Site</a>
-        	  <a href="{{ item.map }}">Map</a>
+        	  <a href="{{ item.site }}">Sito</a>
+        	  <a href="{{ item.map }}">Mappa</a>
         	</div>
         </div>
       </div>
@@ -41,7 +41,7 @@ title: Facilities
 </div>
 
 <div class="section">
-  <h2>Accommodation</h2>
+  <h2>Hotel</h2>
 
   {% for item in site.data.facilities.accomodation %}
     {% assign col = forloop.index0 | modulo:2 %}
@@ -62,8 +62,8 @@ title: Facilities
              </p>
           </div>
         	<div class="card-action">
-        	  <a href="{{ item.site }}">Site</a>
-        	  <a href="{{ item.map }}">Map</a>
+        	  <a href="{{ item.site }}">Sito</a>
+        	  <a href="{{ item.map }}">Mappa</a>
         	</div>
         </div>
       </div>
