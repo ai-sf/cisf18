@@ -30,7 +30,7 @@ schedule:
       - hour: "11.00 - 11.15"
         descr: "Coffee break"
       - hour: "11.15.00 - 12.15"
-        descr: "Terzo break"
+        descr: "Terzo talk"
       - hour: "12.15 - 13.30"
         descr: "Pranzo"
       - hour: "13.30 - 19.30"
