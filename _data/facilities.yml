@@ -10,7 +10,7 @@ science:
     map: https://goo.gl/maps/8BFRhuV8qhD2
   
   - img: img/facilities/infn.jpg
-    title: INFN Sezione di Pisa e Dipartimento di Fisica dell'UniPi
+    title: INFN e Dipartimento di Fisica dell'UniPi
     descr: "La sezione di Pisa dell'INFN e il Dipartimento di Fisica dell'Università di Pisa, dedicato a Enrico Fermi, sono il cuore nevralgico della ricerca in fisica della città. 
     Lo spettro delle ricerche che vi sono condotte è veramente immenso, grazie alla presenza dei suoi ricercatori nelle maggiori collaborazioni internazionali, come CERN, Fermilab, SLAC, EURISOL, AMS02 e VIRGO."
     site: https://www.pi.infn.it/
@@ -21,14 +21,6 @@ science:
     descr: "Collocata appena fuori città, l'Area di Ricerca di Pisa del CNR è un centro interdisciplinare che ospita numerosi istituti di ricerca all'avanguardia. I partecipanti potranno visitare l'Istituto di Biofisica (IBF) e l'Istituto Nazionale di Ottica (INO)."
     site: http://www.area.pi.cnr.it/
     map: https://goo.gl/maps/juLKSPqfu972
-    
-  - img: img/facilities/nest.jpg
-    title: NEST
-    descr: "Il National Enterprise for nanoScience and nanoTechnology (NEST) è un centro di ricerca interdisciplinare dove fisici, chimici e biologi investigano il comportamento della natura alla scala nanometrica.
-    I suoi ricercatori sono impegnati a sviluppare strumenti tecnologici innovativi nel campo campo della nanobiologia, della nanoelettronica e della fotonica.
-    Fa parte del complesso di ricerca della Scuola Normale Superiore di Pisa"
-    site: http://www.laboratorionest.it/
-    map: https://goo.gl/maps/JtYsJjMsGWT2
  
   - img: img/facilities/smart.jpg
     title: SMART
@@ -36,3 +28,11 @@ science:
     Ospita anche DreamsLab, dove sono sviluppati strumenti per la realtà virtuale immersiva, che i partecipanti avranno la possibilità di provare."
     site: http://smart.sns.it/
     map: https://goo.gl/maps/FRq2AunGosH2
+
+  - img: img/facilities/nest.jpg
+    title: NEST
+    descr: "Il National Enterprise for nanoScience and nanoTechnology (NEST) è un centro di ricerca interdisciplinare dove fisici, chimici e biologi investigano il comportamento della natura alla scala nanometrica.
+    I suoi ricercatori sono impegnati a sviluppare strumenti tecnologici innovativi nel campo campo della nanobiologia, della nanoelettronica e della fotonica.
+    Fa parte del complesso di ricerca della Scuola Normale Superiore di Pisa"
+    site: http://www.laboratorionest.it/
+    map: https://goo.gl/maps/JtYsJjMsGWT2
