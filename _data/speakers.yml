@@ -6,6 +6,8 @@ science:
     title: Prof. Gabriele Veneziano
     descr: [Bio (Wikipedia)](https://it.wikipedia.org/wiki/Gabriele_Veneziano)
     shortdes: "Talk di Fisica Teorica delle alte energie"
+    bio: http://www.college-de-france.fr/site/en-gabriele-veneziano/index.htm
+    pub:
 
   - img: img/speakers/morsch.jpg
     title: Prof. Oliver Morsch
