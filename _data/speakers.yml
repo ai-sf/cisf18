@@ -3,26 +3,27 @@ intro: ""
 science:
   
   - img: img/speakers/veneziano.jpg
-    title: prof. Gabriele Veneziano
-    descr: ""
-    shortdes: "Talk di fisica teorica"
+    title: Prof. Gabriele Veneziano
+    descr: "Bio: http://www.college-de-france.fr/site/en-gabriele-veneziano/index.htm https://it.wikipedia.org/wiki/Gabriele_Veneziano "
+    shortdes: "Talk di Fisica Teorica delle alte energie"
 
   - img: img/speakers/morsch.jpg
-    title: dott. Oliver Morsch
+    title: Prof. Oliver Morsch
     descr: ""
-    shortdes: "Talk di computazione quantistica"
-
-  - img: img/speakers/bisogni.jpg
-    title: prof. Maria Giuseppina Bisogni
-    descr: ""
-    shortdes: "Talk di fisica medica"
+    shortdes: "Talk di Computazione Quantistica"
 
   - img: img/speakers/califano.jpg
-    title: prof. Francesco Califano
+    title: Prof. Francesco Califano
     descr: ""
-    shortdes: "Talk di fisica dei plasmi"
+    shortdes: "Talk di Fisica dei Plasmi"
   
   - img: img/speakers/shore.jpg
-    title: prof. Steven Neil Shore
+    title: Prof. Steven Neil Shore
     descr: ""
-    shortdes: "Talk di astrofisica"
+    shortdes: "Talk di Astrofisica"
+    
+    
+  - img: img/speakers/bisogni.jpg
+    title: Prof. Maria Giuseppina Bisogni
+    descr: ""
+    shortdes: "Talk di Fisica Medica"
