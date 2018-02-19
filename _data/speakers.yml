@@ -4,7 +4,7 @@ science:
   
   - img: img/speakers/veneziano.jpg
     title: Prof. Gabriele Veneziano
-    descr: "[Bio (Wikipedia)](https://it.wikipedia.org/wiki/Gabriele_Veneziano)"
+    descr: [Bio (Wikipedia)](https://it.wikipedia.org/wiki/Gabriele_Veneziano)
     shortdes: "Talk di Fisica Teorica delle alte energie"
 
   - img: img/speakers/morsch.jpg
