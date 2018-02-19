@@ -4,8 +4,7 @@ science:
   
   - img: img/speakers/veneziano.jpg
     title: Prof. Gabriele Veneziano
-    descr: "<a href=" http://www.college-de-france.fr/site/en-gabriele-veneziano/index.htm"> Bio (College de France) </a>   
-<a href="https://it.wikipedia.org/wiki/Gabriele_Veneziano">Bio (Wikipedia) </a> "
+    descr: "[Bio (Wikipedia)](https://it.wikipedia.org/wiki/Gabriele_Veneziano)"
     shortdes: "Talk di Fisica Teorica delle alte energie"
 
   - img: img/speakers/morsch.jpg
