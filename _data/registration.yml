@@ -1,4 +1,4 @@
-﻿info: "<b>Le iscrizioni rimarranno aperte da lunedì 19 febbraio ore 11.00 a giovedì 1 marzo ore 11.00.</b>
+﻿info: "<b>Le iscrizioni sono concluse, presto i partecipanti selezionati saranno contatti via mail e da quel momento avranno 10 giorni per effettuare il pagamento.</b> Le modalità di pagamento saranno comunicate nella mail. In caso il pagamento non venisse effettuato in tempo, l'iscrizione all'evento non sarà più valida.
 </p><p>
 Sono disponibili <b>150 posti</b>, di cui 50 riservati a studenti dell'Università di Pisa e 100 a studenti provenienti da altri atenei italiani.
 La quota di partecipazione è di <b>100 euro</b> a partecipante. Per chi non avesse bisogno di alloggiare in hotel sarà invece di <b>50 euro</b>.
@@ -56,9 +56,9 @@ terms:
 deadlines:
   info: ""
   specs:
-    - text: "Le iscrizioni apriranno lunedì 19 febbraio e chiuderanno giovedì 1 marzo."
+    - text: "Le iscrizioni si sono concluse giovedì 1 marzo alle ore 11.00."
       url: "#!"
-    - text: "I partecipanti scelti riceveranno una mail di accettazione e da quel momento avranno 10 giorni di tempo per procedere al pagamento della quota nelle modalità che saranno fornite, oltre i quali l'iscrizione non verrà considerata valida."
+    - text: "<b>Le iscrizioni sono concluse, presto i partecipanti selezionati saranno contatti via mail e da quel momento avranno 10 giorni per effettuare il pagamento.</b> Le modalità di pagamento saranno comunicate nella mail. In caso il pagamento non venisse effettuato in tempo, l'iscrizione all'evento non sarà più valida."
       url: "#!"
     - text: "Al momento della scelta dei partecipanti, il Comitato Organizzatore darà importanza alla breve lettera motivazionale inclusa nel modulo di iscrizione e alla disponibilità dello studente a partecipare attivamente alla Parallel Session. Inoltre ogni Comitato Locale avrà un proprio rappresentante per l'AGA."
       url: "#!"
