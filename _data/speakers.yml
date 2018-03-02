@@ -15,13 +15,6 @@ science:
     shortdes: "Talk di Computazione Quantistica"
     bio: "https://www.df.unipi.it/gruppi/arimondo/morsch.html"
     pub: "https://www.df.unipi.it/gruppi/arimondo/morsch_publications.html"
-
-  - img: img/speakers/califano.jpg
-    title: Prof. Francesco Califano
-    descr: ""
-    shortdes: "Talk di Fisica dei Plasmi"
-    bio: "http://osiris.df.unipi.it/~califano/Francesco/Welcome.html"
-    pub: "http://osiris.df.unipi.it/~califano/Francesco/Welcome.html"
     
   - img: img/speakers/shore.jpg
     title: Prof. Steven Neil Shore
@@ -36,4 +29,11 @@ science:
     shortdes: "Talk di Fisica Medica"
     bio: "http://unimap.unipi.it/cercapersone/dettaglio.php?ri=4252&template=dettaglio3.tpl"
     pub: "https://www.researchgate.net/profile/Maria_Giuseppina"
+    
+  - img: img/speakers/califano.jpg
+    title: Prof. Francesco Califano
+    descr: ""
+    shortdes: "Talk di Fisica dei Plasmi"
+    bio: "http://osiris.df.unipi.it/~califano/Francesco/Welcome.html"
+    pub: "http://osiris.df.unipi.it/~califano/Francesco/Welcome.html"
 
