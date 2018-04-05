@@ -30,6 +30,15 @@ science:
     bio: "http://osiris.df.unipi.it/~califano/Francesco/Welcome.html"
     pub: "http://osiris.df.unipi.it/~califano/Francesco/Welcome.html"
     
+  
+  - img: img/speakers/cavasinni.jpg
+    title: Prof. Vincenzo Cavasinni
+    descr: 
+    shortdes: "Talk di Fisica delle Particelle"
+    bio: "http://unimap.unipi.it/cercapersone/dettaglio.php?ri=4390&template=dettaglio3.tpl"
+    pub: "http://inspirehep.net/search?ln=en&p=cavasinni&of=hb&action_search=Search&sf=earliestdate&so=d"
+  
+  
   - img: img/speakers/bisogni.jpg
     title: Prof. Maria Giuseppina Bisogni
     descr: ""
