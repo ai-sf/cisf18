@@ -18,7 +18,7 @@ schedule:
       - hour: "16.30 - 20.00"
         descr: "Parallel Session"
       - hour: "20.00 - "
-        descr: "Tuscanian food night"
+        descr: "Serata toscana"
   - day: Sabato
     date: "21/04"
     short_descr: <b>Talk e visita a VIRGO</b>
@@ -36,7 +36,7 @@ schedule:
       - hour: "13.30 - 19.30"
         descr: "Visita a VIRGO"
       - hour: "19.30 - "
-        descr: "Regions party"
+        descr: "Sagra delle regioni"
   - day: Domenica
     date: "22/04"
     short_descr: <b>Talk e AGA</b>
@@ -83,6 +83,6 @@ few_info:
       url: "#!"
     - text: "Il primo giorno si terrà la <b>Parallel Session</b>, in cui i partecipanti potranno presentare lavori di tesi e/o ricerca svolti durante internship o altri progetti extracurriculari. È previsto anche uno spazio riservato ai poster." 
       url: "#!"
-    - text: "Sabato sera avrà luogo il tradizionale <b>Region party</b>, per il quale sarà chiesto a tutti di portare un piatto tipico della propria zona di provenienza. Maggiori informazioni saranno date dopo la conclusione delle iscrizioni." 
+    - text: "Sabato sera avrà luogo il tradizionale <b>Sagra delle Regioni</b> (quest'anno con una rinnovata denominazione italica), per il quale sarà chiesto a tutti di portare un piatto tipico della propria zona di provenienza. Maggiori informazioni saranno date dopo la conclusione delle iscrizioni." 
       url: "#!"
       
