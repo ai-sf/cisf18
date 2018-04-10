@@ -19,6 +19,12 @@ science:
     site: https://agenda.infn.it/conferenceDisplay.py?confId=13450
     map: https://goo.gl/maps/jgHgpH85a6J2
     
+  - img: img/sponsor/pisa.jpg
+    title: Comune di Pisa
+    descr: ""
+    site: http://www.comune.pisa.it/it/home
+    map: https://goo.gl/maps/7XDyrBpfrhm
+    
   - img: img/sponsor/cnr.jpg
     title: CNR - Area della Ricerca di Pisa
     descr: ""
